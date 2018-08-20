@@ -1,7 +1,7 @@
 # Project: Iris Classification
 ## Supervised Learning
 
-<p align = 'center'><img src = 'logo.jpg', height=512, width =412></p>
+<p align = 'center'><img src = 'logo.jpg', height=462, width =512></p>
 
 ----
 
