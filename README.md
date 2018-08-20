@@ -1,4 +1,4 @@
-# Project: Iris Classification
+# Project: Iris Flower Classification
 ## Supervised Learning
 
 <p align = 'center'><img src = 'logo.jpg', height=450, width =500></p>
