@@ -1,5 +1,5 @@
 # Project: Iris Flower Classification
-## Supervised Learning
+## Supervised Learning, Classificatiom
 
 <p align = 'center'><img src = 'logo.jpg', height=350, width =390></p>
 
