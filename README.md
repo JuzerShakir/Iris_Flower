@@ -16,10 +16,6 @@
 - [Loading Project](#loading-project)<br>
     - [Requirements](#requirements)<br>
     - [Execution](#execution)<br>
-- [Conclusion](#conclusion)<br>
-    - [What I learned](#what-i-learned)<br>
-    - [Evaluation](#evaluation)
-    - [Results](#results)
 
 ----
 
@@ -86,15 +82,5 @@ jupyter notebook report.ipynb
 ```
 
 This will open the Jupyter/iPython Notebook software and project file in your browser.
-
------
-
-### Conclusion
-
-#### What I learned
-"Mentioning what knowledge you acquired from this project."
-
-#### Results
-"Display/Show/Link to your final prediction results!"
 
 ----
