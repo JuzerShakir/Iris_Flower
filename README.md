@@ -48,8 +48,8 @@ This project contains x files and y folder:
 - `report.ipynb`: This is the main file where I have performed my work on the project.
 - `result.csv`: The project dataset. I have loaded this data in the notebook..
 - `export/` : Folder containing HTML and PDF version file of notebook.
-- 'x' : Y
-- 'x' : Y
+- `plots/` : Contains images of all the plots that are displayed in `report.ipynb` file.
+
 
 #### Dataset file
 "Explain the dataset file that contains the data for prediction."
