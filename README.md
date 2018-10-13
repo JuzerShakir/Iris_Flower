@@ -60,14 +60,13 @@ This project contains x files and y folder:
 
 #### Requirements
 
-This project requires **Python x** and the following Python libraries installed:
+This project requires **Python 3.7** and the following Python libraries installed:
 
-- [Python x](https://www.python.org/downloads/release/python-x/)
+- [Python 3.7](https://www.python.org/downloads/)
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
 - [seaborn](https://seaborn.pydata.org/installing.html)
-- [TensorFlow](https://www.tensorflow.org/install/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/install)
