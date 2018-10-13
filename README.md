@@ -78,11 +78,11 @@ If you do not have Python installed yet, it is highly recommended that you insta
 In a terminal or command window, navigate to the top-level project directory `____` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook result.ipynb
+ipython notebook report.ipynb
 ```  
 or
 ```bash
-jupyter notebook result.ipynb
+jupyter notebook report.ipynb
 ```
 
 This will open the Jupyter/iPython Notebook software and project file in your browser.
