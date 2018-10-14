@@ -57,12 +57,12 @@ This project contains x files and y folder:
 
 This project requires **Python 3.7** and the following Python libraries installed:
 
-- [Python 3.7](https://www.python.org/downloads/)
-- [NumPy](http://www.numpy.org/)
-- [Pandas](http://pandas.pydata.org)
-- [matplotlib](http://matplotlib.org/)
-- [seaborn](https://seaborn.pydata.org/installing.html)
-- [scikit-learn](http://scikit-learn.org/stable/)
+- [Python 3.7](https://www.python.org/downloads/)(_Language Used for the project_)
+- [NumPy](http://www.numpy.org/)(_For Scientific Computing_)
+- [Pandas](http://pandas.pydata.org)(_For Data Analysis_)
+- [matplotlib](http://matplotlib.org/)(_For Visualization_)
+- [seaborn](https://seaborn.pydata.org/installing.html)(_For Visualization_)
+- [scikit-learn](http://scikit-learn.org/stable/)(_ML Library for training & testing data_)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/install)
 
