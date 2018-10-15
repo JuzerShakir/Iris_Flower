@@ -39,7 +39,7 @@
 
 #### Files
 
-This project contains x files and y folder:
+This project contains 1 file and 2 folders:
 
 - `report.ipynb`: This is the main file where I have performed my work on the project.
 - `export/` : Folder containing HTML and PDF version file of notebook.
