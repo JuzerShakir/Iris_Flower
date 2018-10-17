@@ -47,8 +47,22 @@ This project contains 1 file and 2 folders:
 
 
 #### Dataset file
-"Explain the dataset file that contains the data for prediction."
 
+The data set contains 3 classes of 50 instances each, total 150 instances, where each class refers to a type of iris plant. One class is linearly separable from the other 2 and the latter are **not linearly separable** from each other. 
+
+**Predicting attribute:** Class of iris plant. 
+
+**Attribute Information:** We have 4 features in this dataset and a target variable `class`.
+
+    - sepal length in cm.
+    - sepal width in cm.
+    - petal length in cm.
+    - petal width in cm.
+    - Class:
+        - Iris Setosa
+        - Iris Versicolour
+        - Iris Virginica
+        
 ----
 
 ### Loading Project
