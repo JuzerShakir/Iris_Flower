@@ -54,14 +54,14 @@ The data set contains _3 classes_ of _50 instances each_, total _150 instances_,
 
 **Attribute Information:** We have _4 features_ in this dataset and a target variable `class`.
 
-    - sepal length in cm.
-    - sepal width in cm.
-    - petal length in cm.
-    - petal width in cm.
-    - Class:
-        - Iris Setosa
-        - Iris Versicolour
-        - Iris Virginica
+- sepal length in cm.
+- sepal width in cm.
+- petal length in cm.
+- petal width in cm.
+- Class:
+    - Iris Setosa
+    - Iris Versicolour
+    - Iris Virginica
         
 ----
 
