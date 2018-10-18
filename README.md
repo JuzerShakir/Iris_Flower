@@ -22,7 +22,7 @@
 ### Description
 
 #### About the project
-This is the most famous dataset in ML and best for beginners who wants to get there hands dirty with _ML/Data Science_. Having less features and observations of the Iris flower, no missing values or outliers to deal with, this makes implementing ML models easier and simple.
+This is the most famous dataset in ML and best for beginners who wants to get there hands dirty with _ML/Data Science_. Having less features and observations of the Iris flowers, no missing values or outliers to deal with, this makes implementing ML models easier and simple.
 
 #### What needs to be done
 "Describe how are you going to solve this project. How are you going to approach it?"
