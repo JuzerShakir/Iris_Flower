@@ -25,7 +25,7 @@
 This is the most famous dataset in ML and best for beginners who wants to get there hands dirty with _ML/Data Science_. Having less features and observations of the Iris flowers, no missing values or outliers to deal with, this makes implementing ML models easier and simple.
 
 #### What needs to be done
-"Describe how are you going to solve this project. How are you going to approach it?"
+Since the project is clean and small, we will use this to our advantage and get practice on how to perform data visualization with matplotlib and seaborn (Data Visualization Libraries), implement most used feature selection methods in _ML/Data Science project_, and apply all classification models on this dataset. This will give us practice and hands on experience on how and when to implement and which works best given the dataset.
 
 
 #### Why this project
