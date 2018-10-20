@@ -62,14 +62,17 @@ The data set contains _3 classes_ of _50 instances each_, total _150 instances_,
 
 #### Requirements
 
-This project requires **Python 3.7** and the following Python libraries installed:
+This project was solved with the following versions of libraries:
 
-- [Python 3.7](https://www.python.org/downloads/)(_Language Used for the project_)
-- [NumPy](http://www.numpy.org/)(_For Scientific Computing_)
-- [Pandas](http://pandas.pydata.org)(_For Data Analysis_)
-- [matplotlib](http://matplotlib.org/)(_For Visualization_)
-- [seaborn](https://seaborn.pydata.org/installing.html)(_For Visualization_)
-- [scikit-learn](http://scikit-learn.org/stable/)(_ML Library for training & testing data_)
+|             **Libraries\Language**            |               **Use**         | **Version** |
+| --------------------------------------------- | ----------------------------- | ------- |
+| [Python](https://www.python.org/downloads/) | _Language Used for the project_ | **3.7.0** |
+| [NumPy](http://www.numpy.org/) | _For Scientific Computing_ | **1.15.2** |
+| [Pandas](http://pandas.pydata.org) | _For Data Analysis_ | **0.23.4** |
+| [matplotlib](http://matplotlib.org/) | _For Visualization_ | **3.0.0** |
+| [seaborn](https://seaborn.pydata.org/installing.html) | _For Visualization_ | **0.9.0** |
+| [scikit-learn](http://scikit-learn.org/stable/) | _ML Library for training & testing data_ | **0.20.0** |
+
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/install)
 
