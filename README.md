@@ -9,7 +9,6 @@
 - [Description](#description)<br>
     - [About the project](#about-the-project)<br>
     - [What needs to be done](#what-needs-to-be-done)<br>
-    - [Why this project](#why-this-project)<br>
 - [Data](#data)<br>
     - [Files](#files)<br>
     - [Dataset file](#dataset-file)<br>
@@ -26,11 +25,6 @@ This is the most famous dataset in ML and best for beginners who wants to get th
 
 #### What needs to be done
 Since the project is clean and small, we will use this to our advantage and get practice on how to perform data visualization with matplotlib and seaborn (Data Visualization Libraries), implement most used feature selection methods in _ML/Data Science project_, and apply all classification models on this dataset. This will give us practice and hands on experience on how and when to implement and which works best given the dataset.
-
-
-#### Why this project
-"Provide Motivation for this project."
-
 
 ----
 
