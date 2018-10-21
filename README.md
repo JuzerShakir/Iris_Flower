@@ -74,9 +74,9 @@ This project was solved with the following versions of libraries installed:
 | [scikit-learn](http://scikit-learn.org/stable/) | _ML Library for training & testing data_ | **0.20.0** |
 
 
-You will also need to have software [Jupyter Notebook](http://jupyter.org/install) installed to run and execute `report.ipynb` file.
-
 If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](https://www.anaconda.com/download/) distribution of Python, which already has the above packages and more included in it.
+
+You will also need to have software [Jupyter Notebook](http://jupyter.org/install) installed to run and execute `report.ipynb` file.
 
 #### Execution
 
