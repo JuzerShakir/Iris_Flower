@@ -65,7 +65,7 @@ The data set contains _3 classes_ of _50 instances each_, total _150 instances_,
 This project was solved with the following versions of libraries installed:
 
 |             **Libraries\Language**            |               **Use**         | **Version** |
-| --------------------------------------------- | ----------------------------- | ------- |
+| --------------------------------------------- | ----------------------------- | :-------: |
 | [Python](https://www.python.org/downloads/) | _Language Used for the project_ | **3.7.0** |
 | [NumPy](http://www.numpy.org/) | _For Scientific Computing_ | **1.15.2** |
 | [Pandas](http://pandas.pydata.org) | _For Data Analysis_ | **0.23.4** |
