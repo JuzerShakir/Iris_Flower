@@ -21,13 +21,13 @@
 
 ### Description
 
-#### About the project
+#### About the project:
 This is the most famous dataset in ML and best for beginners who wants to get there hands dirty with _ML/Data Science_. Having less features and observations of the Iris flowers, no missing values or outliers to deal with, this makes implementing ML models easier and simple.
 
-#### What needs to be done
+#### What needs to be done:
 Since the project is clean and small, we will use this to our advantage and get practice on how to perform data visualization with matplotlib and seaborn (Data Visualization Libraries), implement most used feature selection methods in _ML/Data Science project_, and apply all classification models on this dataset. This will give us practice and hands on experience on how and when to implement and which works best given the dataset.
 
-#### Sources
+#### Sources:
 - **Creator:** *R.A. Fisher*
 - **Donor:** *Michael Marshall*
 
@@ -35,7 +35,7 @@ Since the project is clean and small, we will use this to our advantage and get 
 
 ### Data
 
-#### Files
+#### Files:
 
 This project contains 1 file and 2 folders:
 
@@ -44,7 +44,7 @@ This project contains 1 file and 2 folders:
 - `plots/` : Contains images of all the plots that are displayed in `report.ipynb` file.
 
 
-#### Dataset file
+#### Dataset file:
 
 The data set contains _3 classes_ of _50 instances each_, total _150 instances_, where each class refers to a type of Iris plant. One class is linearly separable from the other 2 and the latter are **not linearly separable** from each other. 
 
@@ -65,7 +65,7 @@ The data set contains _3 classes_ of _50 instances each_, total _150 instances_,
 
 ### Loading Project
 
-#### Requirements
+#### Requirements:
 
 This project was solved with the following versions of libraries installed:
 
@@ -83,7 +83,7 @@ If you do not have Python installed yet, it is highly recommended that you insta
 
 You will also need to have software [Jupyter Notebook](http://jupyter.org/install) installed to run and execute `report.ipynb` file. You can also use [Jupyterlab](https://github.com/jupyterlab/) too to run and execute, _Jupyterlab_ is better version of _Jupyter Notebook_. Instructions to download Jupyterlab can be found [here](https://github.com/jupyterlab/jupyterlab#installation).
 
-#### Execution
+#### Execution:
 
 In a terminal or command window, navigate to the top-level project directory `Iris_Flower_Classification` (that contains this README) and run one of the following commands:
 
