@@ -46,7 +46,7 @@ This project contains 1 file and 2 folders:
 
 #### Dataset file:
 
-|  |  |
+|||
 | ------ | ------ |
 | **Associated Task** | Classification |
 | **Data Set Characteristics** | Multivariate |
