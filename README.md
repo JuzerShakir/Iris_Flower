@@ -5,7 +5,7 @@
 
 ----
 
-### Table Of Contents:
+### __Table Of Contents__:
 - [Description](#description)<br>
     - [About the project](#about-the-project)<br>
     - [What needs to be done](#what-needs-to-be-done)<br>
@@ -19,7 +19,7 @@
 
 ----
 
-### Description
+### __Description__
 
 #### About the project:
 This is the most famous dataset in ML and best for beginners who wants to get there hands dirty with _ML/Data Science_. Having less features and observations of the Iris flowers, no missing values or outliers to deal with, this makes implementing ML models easier and simple.
@@ -33,7 +33,7 @@ Since the project is clean and small, we will use this to our advantage and get 
 
 ----
 
-### Data
+### __Data__
 
 #### Files:
 
@@ -63,7 +63,7 @@ The data set contains _3 classes_ of _50 instances each_, total _150 instances_,
         
 ----
 
-### Loading Project
+### __Loading Project__
 
 #### Requirements:
 
