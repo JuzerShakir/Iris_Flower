@@ -5,7 +5,7 @@
 
 ----
 
-### __Table Of Contents__:
+### Table Of Contents:
 - [Description](#description)<br>
     - [About the project](#about-the-project)<br>
     - [What needs to be done](#what-needs-to-be-done)<br>
@@ -19,7 +19,7 @@
 
 ----
 
-### __Description__
+### Description
 
 #### About the project:
 This is the most famous dataset in ML and best for beginners who wants to get there hands dirty with _ML/Data Science_. Having less features and observations of the Iris flowers, no missing values or outliers to deal with, this makes implementing ML models easier and simple.
@@ -33,7 +33,7 @@ Since the project is clean and small, we will use this to our advantage and get 
 
 ----
 
-### __Data__
+### Data
 
 #### Files:
 
@@ -45,6 +45,15 @@ This project contains 1 file and 2 folders:
 
 
 #### Dataset file:
+
+| ------ | ------ |
+| **Associated Task** | Classification |
+| **Data Set Characteristics** | Multivariate |
+| **Attribute Characteristics** | Real |
+| **Number of Instances** | 150 |
+| **Number of Attributes** | 4 |
+| **Missing Values?** | **No** |
+| **Area** | **Life** |
 
 The data set contains _3 classes_ of _50 instances each_, total _150 instances_, where each class refers to a type of Iris plant. One class is linearly separable from the other 2 and the latter are **not linearly separable** from each other. 
 
@@ -63,7 +72,7 @@ The data set contains _3 classes_ of _50 instances each_, total _150 instances_,
         
 ----
 
-### __Loading Project__
+### Loading Project
 
 #### Requirements:
 
