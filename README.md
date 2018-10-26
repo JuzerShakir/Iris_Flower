@@ -34,7 +34,7 @@ Since the project is clean and small, we will use this to our advantage and get 
 
 ----
 
-<h3><u>Data</u></h3>
+<h3><ins>Data</ins></h3>
 
 #### Files:
 
