@@ -5,7 +5,7 @@
 
 ----
 
-<h3><u>Table Of Contents:</u></h3>
+<h3><ins>Table Of Contents:</ins></h3>
 
 - [Description](#description)<br>
     - [About the project](#about-the-project)<br>
@@ -20,7 +20,7 @@
 
 ----
 
-<h3><u>Description</u></h3>
+<h3><ins>Description</ins></h3>
 
 #### About the project:
 This is the most famous dataset in ML and best for beginners who wants to get there hands dirty with _ML/Data Science_. Having less features and observations of the Iris flowers, no missing values or outliers to deal with, this makes implementing ML models easier and simple.
@@ -74,7 +74,7 @@ The data set contains _3 classes_ of _50 instances each_, total _150 instances_,
         
 ----
 
-<h3><u>Loading Project</u></h3>
+<h3><ins>Loading Project</ins></h3>
 
 #### Requirements:
 
